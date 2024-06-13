@@ -14,7 +14,6 @@ struct BookListView: View {
             NavigationView {
                 List(sections) {
                     item in
-//                    NavigationLink { BookSectionItemView(section: item)} label: { BookSectionItemView(section: item)}
                     NavigationLink { BookDetailView() } label: { BookSectionItemView(section: item)}
                     }
                 .navigationTitle("Sections")

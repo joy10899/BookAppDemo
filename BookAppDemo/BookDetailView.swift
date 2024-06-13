@@ -13,7 +13,7 @@ struct BookDetailView: View {
     
     
     //Documents
-    let url = Bundle.main.url(forResource: "ComprehensiveDoc", withExtension: "pdf")
+    let url = Bundle.main.url(forResource: "SECTION 21", withExtension: "pdf")
     
     var body: some View {
         //View

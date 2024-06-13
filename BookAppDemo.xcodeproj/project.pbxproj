@@ -18,7 +18,7 @@
 		A8BB07922C164C1400573136 /* Section.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8BB07912C164C1400573136 /* Section.swift */; };
 		A8BB07942C1675C600573136 /* BookListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8BB07932C1675C600573136 /* BookListView.swift */; };
 		A8BB07982C167D8900573136 /* BookDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8BB07972C167D8900573136 /* BookDetailView.swift */; };
-		A8BB079A2C16DD4700573136 /* ComprehensiveDoc.pdf in Resources */ = {isa = PBXBuildFile; fileRef = A8BB07992C16DD4700573136 /* ComprehensiveDoc.pdf */; };
+		A8DB89A62C1AA13B00257CED /* SECTION 21.pdf in Resources */ = {isa = PBXBuildFile; fileRef = A8DB89A52C1AA13B00257CED /* SECTION 21.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,7 +53,7 @@
 		A8BB07912C164C1400573136 /* Section.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Section.swift; sourceTree = "<group>"; };
 		A8BB07932C1675C600573136 /* BookListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookListView.swift; sourceTree = "<group>"; };
 		A8BB07972C167D8900573136 /* BookDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookDetailView.swift; sourceTree = "<group>"; };
-		A8BB07992C16DD4700573136 /* ComprehensiveDoc.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = ComprehensiveDoc.pdf; sourceTree = "<group>"; };
+		A8DB89A52C1AA13B00257CED /* SECTION 21.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "SECTION 21.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,7 +110,7 @@
 				A8BB07932C1675C600573136 /* BookListView.swift */,
 				A8BB07972C167D8900573136 /* BookDetailView.swift */,
 				A8BB078F2C164AE900573136 /* BookSectionItemView.swift */,
-				A8BB07992C16DD4700573136 /* ComprehensiveDoc.pdf */,
+				A8DB89A52C1AA13B00257CED /* SECTION 21.pdf */,
 				A8BB07652C16483700573136 /* Assets.xcassets */,
 				A8BB07672C16483700573136 /* Preview Content */,
 			);
@@ -270,8 +270,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A8BB079A2C16DD4700573136 /* ComprehensiveDoc.pdf in Resources */,
 				A8BB07692C16483700573136 /* Preview Assets.xcassets in Resources */,
+				A8DB89A62C1AA13B00257CED /* SECTION 21.pdf in Resources */,
 				A8BB07662C16483700573136 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
