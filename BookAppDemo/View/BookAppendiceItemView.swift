@@ -7,19 +7,19 @@
 
 import SwiftUI
 
-struct BookSectionItemView: View {
+struct BookAppendiceItemView: View {
     
-    var section: Section
+    var appendice: Appendice
     
     var body: some View {
         VStack {
             
-            Text(section.title)
+            Text(appendice.title)
                 .font(.title2)
         }
     }
 }
 
 #Preview {
-    BookSectionItemView(section: sections[0])
+    BookAppendiceItemView(appendice: appendices[0])
 }

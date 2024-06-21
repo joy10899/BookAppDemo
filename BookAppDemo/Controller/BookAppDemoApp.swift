@@ -11,7 +11,8 @@ import SwiftUI
 struct BookAppDemoApp: App {
     var body: some Scene {
         WindowGroup {
-            BookListView()
+            let _ = UserDefaults.standard.set(false, forKey: "_UIConstraintBasedLayoutLogUnsatisfiable")
+            AppendiceDetailView(appendice: Appendice(title: "References", detail: pdfView()))
         }
     }
 }

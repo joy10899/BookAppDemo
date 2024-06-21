@@ -8,7 +8,7 @@
 import SwiftUI
 import PDFKit
 
-struct BookDetailView: View {
+struct pdfView: View {
     
     
     
@@ -23,7 +23,7 @@ struct BookDetailView: View {
 }
 
 #Preview {
-    BookDetailView()
+    pdfView()
 }
 
 struct PDFKitView: UIViewRepresentable {
